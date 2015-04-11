@@ -18,6 +18,4 @@ I'm building this program mostly for me to understand what the difference in the
 
  * Installing ffmpeg on Ubuntu: http://wiki.razuna.com/display/ecp/FFmpeg+Installation+for+Ubuntu
 
- * visualization of AVI file: http://yaai.sourceforge.net/yaai/fileformat.html
-
- * AVI file specification: http://www.alexander-noe.com/video/documentation/avi.pdf
+ * MSDN AVI specs: https://msdn.microsoft.com/en-us/library/windows/desktop/dd318189%28v=vs.85%29.aspx
